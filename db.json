@@ -1,0 +1,19 @@
+[
+{
+  uid:"1",
+  username:"sam",
+  sex:"male",
+}
+,
+{
+  uid:"2",
+  username:"ple",
+  sex:"female",
+},
+
+{
+  uid:"3",
+  username:"card",
+  sex:"male",
+}
+]
