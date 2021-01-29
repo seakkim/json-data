@@ -8,5 +8,21 @@
   "profile": {
     "name": "typicode"
   },
-  
+  "user": [
+    {
+      "id": 1,
+      "username": "sam",
+      "sex":"male"
+    },
+    {
+      "id": 2,
+      "username": "ple",
+      "sex":"female"
+    },
+    {
+      "id": 3,
+      "username": "card",
+      "sex":"male"
+    }
+  ]
 }
