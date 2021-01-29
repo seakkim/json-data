@@ -1,0 +1,13 @@
+{
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "false",
+    "createdAt": "2021-01-29 11:07",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
