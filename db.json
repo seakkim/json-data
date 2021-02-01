@@ -16,17 +16,20 @@
     {
       "id": 1,
       "username": "sam",
-      "sex":"male"
+      "sex":"male",
+      "age":20
     },
     {
       "id": 2,
       "username": "ple",
-      "sex":"female"
+      "sex":"female",
+      "age":20
     },
     {
       "id": 3,
       "username": "card",
-      "sex":"male"
+      "sex":"male",
+      "age":20
     }
   ]
 }
